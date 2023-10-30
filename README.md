@@ -1,12 +1,8 @@
-### Hi there 👋
-
 - 👋 Hi, I’m @7eRoM
 - 👀 Sth internals
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mr-ramezani/)
 
 <br>
-
-📈 **My GitHub Stats:**
 
 <p>
   <img height="190em" width="500em" src="https://github-readme-stats.vercel.app/api?username=7eRoM&show_icons=true&hide_border=true&theme=calm" />
