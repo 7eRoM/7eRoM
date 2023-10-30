@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**7eRoM/7eRoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m @7eRoM
+- 👀 Sth internals
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mr-ramezani/)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="190em" width="500em" src="https://github-readme-stats.vercel.app/api?username=7eRoM&show_icons=true&hide_border=true&theme=calm" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7eRoM&layout=compact&langs_count=10&hide_border=true&theme=calm"/>
+</p>
